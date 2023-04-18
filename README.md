@@ -1,2 +1,2 @@
 # Movie Recommender System
-This project is based on movie recommendation based on cosine similarity of tags 
+This project is of movie recommendation system based on cosine similarity of tags 
